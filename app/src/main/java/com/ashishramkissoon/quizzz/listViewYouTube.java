@@ -27,10 +27,10 @@ public class listViewYouTube extends AppCompatActivity {
 
 
         String versions[]=getResources().getStringArray(R.array.versions);
-
+//
         ListView lv=findViewById(R.id.listview);
 //
-        lv.setAdapter(new ArrayAdapter<>(this,R.layout.list_item,versions));
+       lv.setAdapter(new ArrayAdapter<>(this,R.layout.list_item,versions));
 
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
