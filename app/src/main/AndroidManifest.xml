@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ashishramkissoon.quizzz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".answerListView"></activity>
+        <activity android:name=".may16threshold" />
+        <activity android:name=".nov16threshold" />
+        <activity android:name=".may17threshold" />
+        <activity android:name=".nov17threshold" />
+        <activity android:name=".may18threshold" />
+        <activity android:name=".nov18threshold" />
+        <activity android:name=".threshold" />
+        <activity android:name=".may03" />
+        <activity android:name=".nov03" />
+        <activity android:name=".may04" />
+        <activity android:name=".nov04" />
+        <activity android:name=".may05" />
+        <activity android:name=".nov05" />
+        <activity android:name=".may06" />
+        <activity android:name=".nov06" />
+        <activity android:name=".may07" />
+        <activity android:name=".nov07" />
+        <activity android:name=".may08" />
+        <activity android:name=".nov08" />
+        <activity android:name=".may09" />
+        <activity android:name=".nov09" />
+        <activity android:name=".may10" />
+        <activity android:name=".nov10" />
+        <activity android:name=".may11" />
+        <activity android:name=".nov11" />
+        <activity android:name=".listViewYouTube" />
+        <activity android:name=".may12" />
+        <activity android:name=".nov12" />
+        <activity android:name=".may13" />
+        <activity android:name=".nov13" />
+        <activity android:name=".may14" />
+        <activity android:name=".nov14" />
+        <activity android:name=".may15" />
+        <activity android:name=".nov15" />
+        <activity android:name=".may16" />
+        <activity android:name=".nov16" />
+        <activity android:name=".may17" />
+        <activity android:name=".nov17" />
+        <activity android:name=".start">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".may18" />
+        <activity
+            android:name=".End"
+            android:label="@string/title_activity_end"
+            android:theme="@style/Theme.AppCompat.Light" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

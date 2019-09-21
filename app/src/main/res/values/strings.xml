@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">quizzz</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="correct_toast">correct!</string>
+    <string name="title_activity_end">End</string>
+
+    <string-array name="versions">
+        <item>  Nov 18_qp_12</item>
+        <item>June 18_qp_12</item>
+        <item>Nov 17_qp_12</item>
+        <item>June 17_qp_12</item>
+        <item>Nov 16_qp_12</item>
+        <item>June 16_qp_12</item>
+        <item>Nov 15_qp_12</item>
+        <item>June 15_qp_12</item>
+        <item>Nov 14_qp_12</item>
+        <item>June 14_qp_12</item>
+        <item>Nov 13_qp_12</item>
+        <item>June 13_qp_12</item>
+        <item>Nov 12_qp_12</item>
+        <item>June 12_qp_12</item>
+        <item>Nov 11_qp_12</item>
+        <item>June 11_qp_12</item>
+        <item>Nov 10_qp_12</item>
+        <item>June 10_qp_12</item>
+        <item>Nov 09_qp_12</item>
+        <item>June 09_qp_12</item>
+        <item>Nov 08_qp_12</item>
+        <item>June 08_qp_12</item>
+        <item>Nov 07_qp_12</item>
+        <item>June 07_qp_12</item>
+        <item>Nov 06_qp_12</item>
+        <item>June 06_qp_12</item>
+        <item>Nov 05_qp_12</item>
+        <item>June 05_qp_12</item>
+        <item>Nov 04_qp_12</item>
+        <item>June 04_qp_12</item>
+        <item>Nov 03_qp_12</item>
+        <item>June 03_qp_12</item>
+    </string-array>
+
+    <string-array name="thresholdString">
+        <item>Nov18</item>
+        <item>June18</item>
+        <item>Nov17</item>
+        <item>June17</item>
+        <item>Nov16</item>
+        <item>June16</item>
+    </string-array>
+</resources>
